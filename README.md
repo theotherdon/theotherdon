@@ -23,3 +23,10 @@ I've made the following open source contributions:
 
 - Jest bug fix: https://github.com/facebook/jest/pull/7652
 - Scientist bug fix: https://github.com/github/scientist/pull/168
+
+#### Workshops
+
+I created and gave the following 2 testing workshops in Atlanta, GA:
+
+- https://github.com/test-wrangler/practical-tdd-react
+- https://github.com/test-wrangler/practical_tdd_ruby
