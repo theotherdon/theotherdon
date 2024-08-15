@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 #### Open Source
 
-I've made the following open source contributions:
-
 - Jest bug fix: https://github.com/facebook/jest/pull/7652
 - Scientist bug fix: https://github.com/github/scientist/pull/168
 
