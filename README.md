@@ -1,6 +1,6 @@
-### 👋 Hey, I'm Don!
+### Intro
 
-I'm passionate about helping teams create environments that are enjoyable and productive. I'm writing an article series that walks through the fundamentals of creating great team structures. You can find this article series and the rest of my articles at https://medium.com/@theotherdon. Please drop me a line if you're looking for help with your team. Having worked in both great and not so great environments, I've become really passionate about helping teams create great environments to make an impact.
+Staff Software Engineer at BridgeCare. Always looking to improve. I share what I learn on [Medium](medium.com/@donschrimsher), [YouTube](https://www.youtube.com/@don.schrimsher), [X](https://x.com/donschrimsher), and [LinkedIn](https://www.linkedin.com/in/donald-schrimsher-20b681116/).
 
 <!--
 **theotherdon/theotherdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
