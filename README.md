@@ -1,6 +1,6 @@
 ### Intro
 
-Staff Software Engineer at BridgeCare. Always looking to improve. I share what I learn on [Medium](medium.com/@donschrimsher), [YouTube](https://www.youtube.com/@don.schrimsher), [X](https://x.com/donschrimsher), and [LinkedIn](https://www.linkedin.com/in/donald-schrimsher-20b681116/).
+Staff Software Engineer at [BridgeCare](https://getbridgecare.com/). Always looking to improve. I share what I learn on [Medium](medium.com/@donschrimsher), [YouTube](https://www.youtube.com/@don.schrimsher), [X](https://x.com/donschrimsher), and [LinkedIn](https://www.linkedin.com/in/donald-schrimsher-20b681116/).
 
 <!--
 **theotherdon/theotherdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
